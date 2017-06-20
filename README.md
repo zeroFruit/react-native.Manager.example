@@ -1,5 +1,4 @@
-
-#React-Native, Redux
+# React-Native, Redux
 ```react
 const reducer = () => [];
 const store = Redux.createStore(reducer);
